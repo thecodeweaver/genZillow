@@ -1,6 +1,6 @@
 tensorflow 
 keras 
-pickle
+pickle5
 nltk
 flask
 pandas 
